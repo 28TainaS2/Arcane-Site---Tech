@@ -50,12 +50,14 @@ section {
 section:hover {
     background-color: #3A3A52; 
     transition: background-color 0.3s ease; 
+}
 
 /* Estilização das imagens */
 img {
     max-width: 100%; 
     height: auto; 
     border-radius: 12px; 
+}
 
 /* Estilização do rodapé */
 footer {
